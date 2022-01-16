@@ -22,4 +22,4 @@
      dan terdapat file karyawan.sql untuk databasenya
 4. Buat database di localhost/phpmyadmin dan import database yang sudah disediakan (karyawan.sql)
 5. Pasang library yang terdapat didalam folder "jcalender+connector" ke dalam folder project kita yaitu CRUD_Karyawan
-6. Run Project dan terima kasih :)
+6. Run Project menggunakan NetBeans dan terima kasih :)
