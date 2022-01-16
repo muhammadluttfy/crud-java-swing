@@ -12,7 +12,7 @@
 
 ![gambar](preview.jpeg?raw=true)
 
-### Langkah-langkah :
+### Cara Pemasangan :
 
 1. Clone atau download folder di dalam github ini
 2. Ekstrak file yang sudah di download (jika di download) ATAU buka folder yang sudah di clone sebelumnya
