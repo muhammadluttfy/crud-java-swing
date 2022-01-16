@@ -10,7 +10,7 @@
 
 # Project Sederhana Pengelolaan Data Karyawan untuk kebutuhan Tugas Kuliah (UAS) Fakultas Teknologi Informasi Universitas Merdeka Malang
 
-![gambar](preview.png?raw=true)
+![gambar](preview.jpeg?raw=true)
 
 ### Langkah-langkah :
 
